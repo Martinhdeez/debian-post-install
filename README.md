@@ -7,8 +7,8 @@ Post-install scripts for Debian 13 (Trixie) with GNOME. Two independent tools in
 
 Each one works standalone. Use both or just the one you need.
 
-<!-- TODO: Add screenshot of full desktop here -->
-<!-- ![Desktop](screenshots/desktop.png) -->
+![Desktop](screenshots/Desktop.png)
+![Applications](screenshots/aplications.png)
 
 ---
 
@@ -82,12 +82,6 @@ modprobe -i nvidia
 ## Desktop Setup
 
 Full GNOME desktop customization in one script. Modular — pick what you want.
-
-<!-- TODO: Add screenshots -->
-<!-- ![GNOME Desktop](screenshots/gnome-desktop.png) -->
-<!-- ![Top Bar](screenshots/top-bar.png) -->
-<!-- ![Kitty Terminal](screenshots/kitty.png) -->
-<!-- ![Conky](screenshots/conky.png) -->
 
 ### Modules
 
